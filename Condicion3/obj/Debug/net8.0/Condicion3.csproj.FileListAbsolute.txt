@@ -1,0 +1,14 @@
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\bin\Debug\net8.0\Condicion3.exe
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\bin\Debug\net8.0\Condicion3.deps.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\bin\Debug\net8.0\Condicion3.runtimeconfig.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\bin\Debug\net8.0\Condicion3.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\bin\Debug\net8.0\Condicion3.pdb
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.AssemblyInfoInputs.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.AssemblyInfo.cs
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.csproj.CoreCompileInputs.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\refint\Condicion3.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.pdb
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\Condicion3.genruntimeconfig.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Condicion3\obj\Debug\net8.0\ref\Condicion3.dll
