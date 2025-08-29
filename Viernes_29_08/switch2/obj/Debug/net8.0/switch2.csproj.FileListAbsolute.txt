@@ -1,0 +1,15 @@
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.AssemblyInfoInputs.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.AssemblyInfo.cs
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.csproj.CoreCompileInputs.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.sourcelink.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\bin\Debug\net8.0\switch2.exe
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\bin\Debug\net8.0\switch2.deps.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\bin\Debug\net8.0\switch2.runtimeconfig.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\bin\Debug\net8.0\switch2.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\bin\Debug\net8.0\switch2.pdb
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\refint\switch2.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.pdb
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\switch2.genruntimeconfig.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\switch2\obj\Debug\net8.0\ref\switch2.dll

@@ -1,0 +1,15 @@
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\bin\Debug\net8.0\dowhile.exe
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\bin\Debug\net8.0\dowhile.deps.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\bin\Debug\net8.0\dowhile.runtimeconfig.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\bin\Debug\net8.0\dowhile.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\bin\Debug\net8.0\dowhile.pdb
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.AssemblyInfoInputs.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.AssemblyInfo.cs
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.sourcelink.json
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\refint\dowhile.dll
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.pdb
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\dowhile.genruntimeconfig.cache
+C:\Users\Naza\Desktop\ProgramacionEstructuradaG1S1\Viernes_29_08\dowhile\obj\Debug\net8.0\ref\dowhile.dll
